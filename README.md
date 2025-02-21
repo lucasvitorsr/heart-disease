@@ -23,8 +23,7 @@ Este projeto tem como objetivo prever a presença de doenças cardíacas em paci
 │── 📂 data/                  # Conjunto de dados
     ├── preprocessed_data.csv  # Base de dados processada para EDA
 │── 📂 notebooks/             # Notebooks para análise
-│   ├── 📜 exploracao_dados.ipynb      # Análise exploratória dos dados
-│   ├── 📜 modelagem.ipynb             # Treinamento e avaliação dos modelos
+│   ├── 📜 classificacao_doenca_cardiaca.ipynb     # Notebook único do projeto
 │── 📜 .gitignore              # Arquivos a serem ignorados pelo Git
 ```
 
