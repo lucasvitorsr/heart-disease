@@ -24,7 +24,6 @@ Este projeto tem como objetivo prever a presença de doenças cardíacas em paci
     ├── preprocessed_data.csv  # Base de dados processada para EDA
 │── 📂 notebooks/             # Notebooks para análise
 │   ├── 📜 classificacao_doenca_cardiaca.ipynb     # Notebook único do projeto
-│── 📜 .gitignore              # Arquivos a serem ignorados pelo Git
 ```
 
 ## 🛠 Tecnologias Utilizadas
